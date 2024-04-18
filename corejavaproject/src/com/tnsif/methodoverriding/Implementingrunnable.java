@@ -1,7 +1,7 @@
 package com.tnsif.methodoverriding;
 
 public class Implementingrunnable implements Runnable {
-	
+	//Override
 	public void run()  {
 		System.out.println("implementing runnable interface");
 	}
